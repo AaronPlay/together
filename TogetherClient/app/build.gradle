@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "21.0.2"
+    buildToolsVersion "19.1.0"
 
     defaultConfig {
-        applicationId "com.redefine.aaron.together"
+        applicationId "com.redefine.aaron.schooltrip"
         minSdkVersion 19
         targetSdkVersion 21
         versionCode 1
